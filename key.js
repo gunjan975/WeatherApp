@@ -1,2 +1,2 @@
 // API key
-key="94ab8a24ef05aa0559d4aa2ddffcdec4";
+key="82a72b9f569797d4479fe391c2f83dab";
